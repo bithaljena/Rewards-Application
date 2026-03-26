@@ -1,3 +1,6 @@
+http://localhost:8080/swagger-ui/index.html#/rewards-controller/previewPoints
+
+
 ## Reward Rules
 
 | Transaction Amount | Points Earned |
